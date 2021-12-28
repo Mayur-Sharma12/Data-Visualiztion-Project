@@ -28,8 +28,7 @@ We decided to deploy our interactive dashboard with **voila**. Below are install
 2. It will automatically open a new website in the broswer to see the interactive page. It will take few seconds.
 ![image](image/02.gif)
 
-3. Scroll down to see what you have got in the website.
-![image](image/03.gif)
+3. Scroll down to explore what you have got in our website.
 
 4. Famous station in the dataset.
 ![image](image/Famous_Start_Station.gif)
