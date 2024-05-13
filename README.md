@@ -6,15 +6,15 @@
 We decided to explore the data Divvy provideed, and made some visualizations and interactive plots for this dataset.
 
 ### Phase 1
-We explored the dataset in phase 1, please check file `phase_one.ipynb`.
+We explored the dataset in phase 1, `phase_one.ipynb`.
 
 ### Phase 2
-The second component of your project will be to design your "observatory". This could consist of drawings, prototypes of web pages or notebooks, and the code necessary to build the different components. This component is scaffolding, not the final product. It should be thought of as the "viz for peers" stage of the process. 
+The second component of your project will be to design the "observatory". These consist of drawings, prototypes of web pages or notebooks, and the code necessary to build the different components. This component is scaffolding, not the final product. It's thought of as the "viz for peers" stage of the process. 
 
 Check file - `FinalProject-PhaseTwo-GroupA.ipynb`
 
 ### Phase 3
-We decided to deploy our interactive dashboard with **voila**. Below are installation steps and our results. Code is in file `IS445_Final Project _Phase Three_Group A.ipynb`. Please see the following steps as below to help your installation. Then, you may have website run successfully with voila and get the final results and interactive visualizations!
+I decided to deploy the interactive dashboard with **voila**. Code is in file `IS445_Final Project _Phase Three_Group A.ipynb`. The website runs successfully with voila and the final results with interactive visualizations!
 
 ## Prerequisite
 0. install [voila](https://voila.readthedocs.io/en/stable/install.html) in your computer.
